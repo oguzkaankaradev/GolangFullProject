@@ -1,0 +1,27 @@
+1) Yeni bir Go kod dosyası oluşturun, bir paket ayarlayın ve ana işlevi ekleyin
+2) İki yeni değişken oluşturun:
+   - Adınız için
+   - Ve soyadınız
+
+   Bu değişkenleri iki farklı şekilde oluşturun (varsa ve yok)
+   açık tür ataması).
+
+3) İki değişkenin komut satırına çıktısını alın ve kod dosyasını çalıştırın
+   Çıktıyı komut satırında görmek için.
+
+4) Ayrıca iki değişken daha ekleyin:
+   - Cari yıl
+   - Doğum yılınız
+
+   Yine bu değişkenleri iki farklı şekilde oluşturun ve doğru değerleri ayarlayın.
+   değer türü (uygun bir tür seçin).
+
+5) İki yıl arasındaki farkı ("yaş") hesaplayın ve
+   yeni bir değişkende saklayın. Komut satırında sonuçlanan çıktı.
+
+6) "Geçerli yıl" değişkeninde saklanan değerin üzerine şunu yazın:
+   önceki değer + 1 (yani gelecek yıl). Gelecek yılı hesapla
+   sadece numarayı değiştirmeyin.
+   Adım 5'i bu yeni değerle tekrarlayın (önceki kodlardan hiçbirini değiştirmeden).
+
+Önce tüm bu adımları kendi başınıza deneyin, ardından çözümüme bir göz atın
