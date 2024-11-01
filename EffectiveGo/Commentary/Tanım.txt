@@ -1,0 +1,3 @@
+Bir kodda not eklemek istiyorsanız yorum satırı kullanılır.
+- /* yorumu yaz( Çoklu yorum yatırında kullanılır, yani alt yıldızlar arasında istediğiniz kadar alt satıra geçebilirsiniz. ) */ 
+- // (Bu tek satır yorum yazmak için kullanılır)

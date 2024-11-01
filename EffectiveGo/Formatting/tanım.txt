@@ -1,0 +1,13 @@
+//Formatlama : kodun okunabilirliğini ve anlaşılabilirliğini artırmak için kullanılan,
+Kurallar bütünüdür.
+Bu kurallar : Girintiler, Satır aralarındaki boşluklar, yazım Sitilleri, satır uzunlukları, Yorum satırlarıdır. 
+Birçok dilde kod formatlamada kenide özgü araçlar vardır. 
+Goda gofmt yi kullanmaktadır. 
+
+Goda satır  uzunluğu yoktur
+Şayet satırın uzun olması halinde alt satıra şeçin.
+
+go, c ve javaya kıyasla daha az paranteze ihtiyaç duyar.
+if, for, switch gibi yapılarda parantez kullanmaz. 
+
+Operatör ve öncelik sıralamalarında daha basit ve anlaşılırdırlar.
