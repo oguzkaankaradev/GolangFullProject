@@ -1,0 +1,26 @@
+Names : İsimler her dilde önemlidir. Goda buna ek olarak anlamsal bir etkisi vardır
+
+* Büyük harfle başlıyorsa go daki isim, o dosyaya işleve diğer sayfalardan erişebilirsiniz.
+
+homeCleaner : Bu fonksiyona sadece bu sayfa içerisinden erişebiliriz. 
+HomeCleaner : Diğer sayfalardanda erişebiliriz. 
+
+Package names : Biz sayfaları yazarken onları tekrar tekrar kullanmak istiyorsak, onları paketler içerisine koyarız.
+Kullandığımız zaman o peketi çağırırız. Buda kod tekrarını önler. 
+***Şayet o paketi kullanmak istiyorsan import keywordü ile çağır. 
+
+Paket ismi verirken, büyük küçük harfe dikkat edilmeye bilir, fakat gelenek gereği küçük harfle başlar tek kelimelik olması tavsiye edili.r.
+Paket isimlerinin kısa olması yazılımızı daha efektiv olmasını sağlayacaktır. 
+
+Getter : Bir veriyi almak için kullanılır. GetDataAge.
+Setter : Bir veriyi göndermek için kullanılıır. SetDataAge
+Bir nesnenin private, protect, public kullanımını sağlar. 
+
+Encapsulation = kapsülleme, veririn erişimini sınırlandırma. Bu sayede bakım kolaylığı sağlar.
+Verinin diğer kısımlardan yanlışlıkla etkilenmesini önler. 
+Verinin doğrulama işlermini yapmaktayız.
+
+//Goda interfacelerde er eki kullanımaktadır.
+
+Mexed Caps(MixedCaps) : Goda isimlendirmelerde çoklu kelimelerde alt çizgi yerine büyük küçük harf kullanıılır. 
+Web Helper(WebHelper) 

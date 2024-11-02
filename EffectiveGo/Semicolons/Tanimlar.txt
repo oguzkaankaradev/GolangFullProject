@@ -1,0 +1,15 @@
+C dilinde bir kodun sonlandığını göstermek için ; kullanılır. 
+
+
+Golangde kodun bittiğini göstermek için kesik çizgiler - kullanılır.
+Kural şudur : 
+1 : Noktalı virgül ekleme kuralları : 
+Aşağıdaki durumlarda noktalı virgül otomatik elenir. 
+Bir Yeni bir satırdan önceki son token, Bir veri tipi ise int float string bool gibi eklenmez.
+Aşağıdaki tokenlardan biri ise eklenmez
+break, continue, fallthrough, return, ++, ), }
+
+Bu, “eğer yeni satır, bir ifadeyi sona erdirebilecek bir token'dan sonra geliyorsa, 
+bir noktalı virgül ekle” şeklinde özetlenebilir.
+
+Noktalı virgül ekleme kurallarının bir sonucu olarak, bir kontrol yapısının (if, for, switch veya select) açılış süslemesini bir sonraki satıra koyamazsınız. Eğer yaparsanız, süslemenin öncesine bir noktalı virgül eklenir ki bu istenmeyen etkilere yol açabilir. Bu şekilde yazmalısınız:
