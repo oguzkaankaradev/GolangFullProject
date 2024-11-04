@@ -1,0 +1,9 @@
+* Goda diğer c tabanlı dillerden farklı olarak do-while döngüsü bulunmamaktadır. 
+  Bunun yerine for döngüsünün dahada genelleşmiş hali bulunmaktadır. 
+  Genelde if ve switch(Çok esnek) döngüleri kullanılmaktadır.
+
+* Break(Sonlandırmak) ve continue(Devam ettirmek) ifadeleri döngü içerinde kullanılır. 
+  Buna ek olarak multiplikser olan select ifadesi kullanılmaktadır.
+
+Multiplixer(Select{goda multiplixer olarak select kullanılır.}) : Çok sayıda veri sinyalini tek bir hat üzerinde iletmek için kullanılır. 
+Telekominasyon, bilgisayar ağları, dijital sistemler de kullanılır. 
