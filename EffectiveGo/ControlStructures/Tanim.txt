@@ -1,4 +1,4 @@
-* Goda diğer c tabanlı dillerden farklı olarak do-while döngüsü bulunmamaktadır. 
+merhaba go�er c tabanlı dillerden farklı olarak do-while döngüsü bulunmamaktadır. 
   Bunun yerine for döngüsünün dahada genelleşmiş hali bulunmaktadır. 
   Genelde if ve switch(Çok esnek) döngüleri kullanılmaktadır.
 
@@ -7,3 +7,9 @@
 
 Multiplixer(Select{goda multiplixer olarak select kullanılır.}) : Çok sayıda veri sinyalini tek bir hat üzerinde iletmek için kullanılır. 
 Telekominasyon, bilgisayar ağları, dijital sistemler de kullanılır. 
+
+
+ödev = bir kafede, müşterilerin adını, soyadını yaşı ve bilgisayarına 
+erişerek Müşteriler txt dosyasına sırayla kaydolmasını sağla. 
+ve müşerileri eğer 18 de büyük ve eşitse giriş yapan müşteriler klasörüne,
+18 den küçükse giriş yapamayan müşteriler klasörüne kaydet. 
