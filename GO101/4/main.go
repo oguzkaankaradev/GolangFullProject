@@ -43,6 +43,6 @@ func NewUser(name string, age int) User{
 func GetName() //buna gerek yok
 func Name()
 
-//Kısaltmaları Dikkatli Kullanın
+//4. Kısaltmaları Dikkatli Kullanın
 func XmlToJson(){...} //bu yanlış
-func XMLToJSON(){...}
+func XMLToJSON(){...}  
