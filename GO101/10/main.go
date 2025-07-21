@@ -99,7 +99,7 @@ loop:
 
 	select {
 	case msg1 := <-ch1:
-		fmt.Println("geldi::", msg1)
+		fmt.Println("geldi:", msg1)
 	case msg2 := <-ch2:
 		fmt.Println("geldi:", msg2)
 	default:
